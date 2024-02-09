@@ -2,6 +2,8 @@
 
 This repository contains code examples in Python covering various basic language topics. Each section is organized into a separate file to facilitate understanding and execution.
 
+![Python Logo](https://github.com/MontielAguilar/27-python-basic/raw/main/python-logo.png)
+
 ## Repository Content
 
 1. **Introduction**
@@ -39,6 +41,4 @@ This repository contains code examples in Python covering various basic language
 
 ## Execution
 To run any of the examples, simply execute the corresponding Python file from the command line or your preferred development environment.
-
-![Python Logo](https://github.com/MontielAguilar/27-python-basic/raw/main/python-logo.png)
 
