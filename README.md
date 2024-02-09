@@ -40,6 +40,5 @@ This repository contains code examples in Python covering various basic language
 ## Execution
 To run any of the examples, simply execute the corresponding Python file from the command line or your preferred development environment.
 
+![Python Logo](https://github.com/MontielAguilar/27-python-basic/raw/main/python-logo.png)
 
-```bash
-python nombre_del_archivo.py
